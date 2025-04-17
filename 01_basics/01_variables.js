@@ -1,3 +1,5 @@
+// Java script is dynamically typed language
+
 const accountId = 147852
 let accountEmail = "nobody@gmail.com"
 var accountPassword = "85769"
