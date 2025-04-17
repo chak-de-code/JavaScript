@@ -4,7 +4,9 @@ var accountPassword = "85769"
 accountCity = "Banglore"
 let accountState;
 
-// accountId = 589647               
+/* prefer the use of let and const instead of var because of issue in block scope and function scope */
+
+// accountId = 589647    // constant cannot change           
 accountEmail = "great@gmail.com"
 accountPassword = "41036897"
 accountCity = "Panipat"
