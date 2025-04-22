@@ -40,5 +40,3 @@ const myn2 = myarr.splice(1,3);
 
 console.log("C",myarr);
 console.log(myn2)
-
-//3:39
